@@ -1,6 +1,6 @@
 <div align="center">
 
-img
+<img
     src="https://github.com/user-attachments/assets/804666f3-9bf8-49bf-912c-895a5678a0e8"
     width="100%"
     alt="Banner GitHub - Heitor Bailke"
