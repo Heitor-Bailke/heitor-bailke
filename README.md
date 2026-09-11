@@ -22,12 +22,6 @@ Tenho experiência prática desenvolvendo **APIs REST**, sistemas web e landing 
 
 Minha experiência profissional também me proporcionou contato diário com **sistemas corporativos, CRM, análise de processos, regras de negócio, testes funcionais e resolução de problemas**.
 
-🎯 Atualmente busco oportunidades como:
-
-* Desenvolvedor Java Júnior
-* Desenvolvedor Back-end Júnior
-* Desenvolvedor Full Stack Júnior
-
 ---
 
 ## 🚀 Tecnologias
